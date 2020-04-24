@@ -6,3 +6,4 @@ Include concepts suchs as:
 3) DFFS (distance-from feature-space)
 4) SSD (sum-of-square-differences) - heat maps 
 5) Performance of SSD and DFFS
+6) More (basic understandiings)
